@@ -1,6 +1,6 @@
 # 👋 Hola, soy David Stiven Paéz
 
-Soy Desarrollador Frontend Senior con más de 3 años de experiencia creando interfaces web y móviles robustas, modernas y seguras. Trabajo principalmente con React, TypeScript, Styled Components, Microfrontends y arquitecturas escalables para proyectos de alto impacto, especialmente en el sector financiero.
+Soy Desarrollador Frontend Senior con más de 6 años de experiencia creando interfaces web y móviles robustas, modernas y seguras. Trabajo principalmente con React, TypeScript, Styled Components, Microfrontends y arquitecturas escalables para proyectos de alto impacto, especialmente en el sector financiero.
 
 ## 🚀 Tecnologías que uso a diario
 
