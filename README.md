@@ -12,6 +12,9 @@ Soy Desarrollador Frontend Senior con más de 6 años de experiencia creando int
 
 ## 🛠 Últimos proyectos
 
+- 🧪 **Multitenant(Wearedev)**  
+  Aplicacion multibancaria para empresas
+
 - 🧪 **Frontend Challenge - N5**  
   Microfrontends + i18n + Styled Components + Jest  
   [Ver repositorio](https://github.com/DavidPaez592/challengeN5)
