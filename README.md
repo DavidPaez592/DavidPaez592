@@ -5,15 +5,22 @@ Soy Desarrollador Frontend Senior con más de 6 años de experiencia creando int
 ## 🚀 Tecnologías que uso a diario
 
 - React, React Native, Next.js, TypeScript
+
 - Styled Components, TailwindCSS, BEM
+
 - RESTful APIs, Axios, Postman
+
 - Jest, React Testing Library
+
 - Docker, Git/GitFlow, Azure DevOps
 
 ## 🛠 Últimos proyectos
+- 🛒 **E-commerce Davivienda**  
+  Plataforma de comercio electrónico con Next.js, TypeScript, Prisma, TailwindCSS y arquitectura modular.  
+  [Ver repositorio](https://github.com/DavidPaez592/daviviendaEcommers)
 
-- 🧪 **Multitenant(Wearedev)**  
-  Aplicacion multibancaria para empresas
+- 🧪 **Multitenant (Wearedev)**  
+  Aplicación multibancaria para empresas
 
 - 🧪 **Frontend Challenge - N5**  
   Microfrontends + i18n + Styled Components + Jest  
@@ -23,10 +30,8 @@ Soy Desarrollador Frontend Senior con más de 6 años de experiencia creando int
   Aplicación de onboarding, simuladores y gestión de usuarios para entidad financiera.
 
 ## 📫 ¿Hablamos?
-
 - ✉️ davidpaez502@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/davidpaezbolivar)
-
+- 🌐 [LinkedIn](https://www.linkedin.com/in/davidpaez-software-developer/)
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
